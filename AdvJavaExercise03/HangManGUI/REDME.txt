@@ -1,0 +1,6 @@
+HELLO!!
+
+the src fiels are the java files
+the images should be in the main directory.
+
+thanks and have a nice day!
